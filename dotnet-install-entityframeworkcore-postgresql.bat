@@ -1,0 +1,1 @@
+dotnet add package Devart.Data.PostgreSql.EFCore
